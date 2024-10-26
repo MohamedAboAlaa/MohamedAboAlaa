@@ -1,6 +1,7 @@
 ![robot](https://github.com/user-attachments/assets/48ab4853-9802-4fda-b249-c51822411a30)
 
 # 👋 Hello, I'm Mohamed Alaa
+![self-driving-simulation](https://github.com/user-attachments/assets/29bbe4a0-28ab-4ac0-a8e6-b801adf2392f)
 
 🌍 **Location:** Cairo, Egypt  
 📫 **Reach me at:** [abo329947@gmail.com](mailto:abo329947@gmail.com)  
